@@ -1,10 +1,9 @@
 class: middle, center
-highlightLanguage: javascript
-highlightLines: true
-highlightSpans: true
 
-Whatup Node v4!
+Whatup, Node v4!
 ===============
+
+What’s new in Node.js v4
 
 ---
 
@@ -55,7 +54,7 @@ Brief History:
 
 ## Use Node.js v4
 
-Migrating modules
+Migrating and upgrading modules
 
 - [Breaking changes](https://github.com/nodejs/LTS/wiki/Breaking-changes-between-v0.12-and-next-LTS-release)
   - [Between io.js versions](https://github.com/nodejs/node/wiki/Breaking-Changes)
