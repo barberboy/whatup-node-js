@@ -20,8 +20,9 @@ What’s new in Node.js v4
 
 ## What’s new in Node.js v4
 
-- [Announcement](https://nodejs.org/en/blog/release/v4.0.0/)
-- [ES6 features](https://nodejs.org/en/docs/es6/)
+- [4.0.0 released September 8, 2015](https://nodejs.org/en/blog/release/v4.0.0/)
+- [Updated V8 to version 4.5](http://v8project.blogspot.com/2015/07/v8-45-release.html) (same version as Chrome stable)
+  - Which means shiney new [ES6 features](https://nodejs.org/en/docs/es6/)
 - [Performance improvements (~25%)](http://apmblog.dynatrace.com/2015/09/05/all-you-need-to-know-about-node-js-4-0/)
 - [Reduced memory consumption](https://github.com/nodejs/node/issues/2522#issuecomment-138501907)
 - [ARM support in build and test infrastructure](https://github.com/nodejs/build)
@@ -69,6 +70,8 @@ Installing and running
 ---
 
 ## [ES6 features](https://nodejs.org/en/docs/es6/)
+
+Node.js now ships with the **same** V8 version as Chrome. That means:
 
 - Arrow functions
 - Block scoping: `let`, `const`
