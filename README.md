@@ -43,11 +43,11 @@ Brief History:
 
 [Node.js Foundation](https://nodejs.org/en/foundation/)
 
-- Merge of io.js (v3.3) & node.js (v0.12.7) code bases
-- Hosted by Linux Foundation
-- Open governance model
+- [Completed the merge of io.js (v3.3) & node.js (v0.12.7) projects](https://github.com/nodejs/node/issues/978)
+- [Hosted by Linux Foundation](http://www.linuxfoundation.org/news-media/announcements/2015/06/nodejs-foundation-advances-community-collaboration-announces-new)
+- [Open governance model](https://github.com/nodejs/node/blob/master/GOVERNANCE.md#technical-committee)
 - Guided by [Technical Steering Committee (TSC)](https://github.com/nodejs/node/blob/master/GOVERNANCE.md#technical-committee)
-- [Long-term support process](https://github.com/nodejs/LTS/) following [SemVer](http://semver.org/)
+- [Long-term support process](https://github.com/nodejs/LTS/#nodejs-long-term-support-working-group) following [SemVer](http://semver.org/)
 - [Enterprise members](https://nodejs.org/en/foundation/members/)
 
 ---
@@ -95,6 +95,7 @@ Unofficial channels
 - [io.js by Isaac Z. Schlueter](http://blog.izs.me/post/104685388058/iojs)
 - [Why io.js](http://www.infoworld.com/article/2855057/application-development/why-iojs-decided-to-fork-nodejs.html)
 - [Node.js Foundation Announcement at Linux Foundation](http://www.linuxfoundation.org/news-media/announcements/2015/06/nodejs-foundation-advances-community-collaboration-announces-new)
+- [Node.js and io.js Merge Under the Node Foundation](http://www.infoq.com/news/2015/05/nodejs-iojs)
 - [V8 4.5 Release](http://v8project.blogspot.com/2015/07/v8-45-release.html)
 - [Node.js 4.0 ES6 Compatibility](https://kangax.github.io/compat-table/es6/#node4)
 - [7 Reasons to Upgrade to Node v4 Now](http://www.cli-nerd.com/2015/09/09/7-reasons-to-upgrade-to-node-v4-now.html)
