@@ -26,14 +26,15 @@ Whatup Node v4!
 - [Performance improvements (~25%)](http://apmblog.dynatrace.com/2015/09/05/all-you-need-to-know-about-node-js-4-0/)
 - [Reduced memory consumption](https://github.com/nodejs/node/issues/2522#issuecomment-138501907)
 - [ARM support in build and test infrastructure](https://github.com/nodejs/build)
-
+- New [long-term support process](https://github.com/nodejs/LTS/#nodejs-long-term-support-working-group) following [SemVer](http://semver.org/)
+ 
 ---
 
 ## Why from 0.12.7 to 4.0.0?
 
 Brief History:
 
-- [io.js](http://blog.izs.me/post/104685388058/iojs) (fork)
+- [io.js](http://blog.izs.me/post/104685388058/iojs) fork
 - [Node Forward Technical Committee](http://nodeforward.org/)
 - [Node.js Advisory Board](https://www.joyent.com/blog/node-js-advisory-board) by Joyent (temporary stop-gap)
 
@@ -65,6 +66,26 @@ Installing and running
 
 - [nvm](https://github.com/creationix/nvm):  `nvm install stable`
 - [node-bin](https://www.npmjs.com/package/node-bin): `npm install --save node-bin@latest`
+
+---
+
+## [ES6 features](https://nodejs.org/en/docs/es6/)
+
+- Arrow functions
+- Block scoping: `let`, `const`
+- Classes: `class`, `super`, `constructor`, `extends`
+- Collections: `Map`, `WeakMap`, `Set`, `WeakSet`
+- Typed Arrays
+- Generators
+- Shorthand properties/methods in Object literals
+- Promises
+- String instance methods: `startsWith(str)`, `.endsWith(str)`, `.includes(str)`, `.repeat(n)`
+- Template Strings
+- Symbols
+- Promises
+- Object.assign
+- Array instance methods: `.find(callback)`, `.findIndex(callback)`
+- Array static methods: `Array.from(arrayLike)`, `Array.of(e0, e1, ...)`
 
 ---
 
